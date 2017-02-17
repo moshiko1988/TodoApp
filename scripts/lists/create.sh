@@ -7,8 +7,7 @@ curl "${API}${URL_PATH}" \
   --header "Content-Type: application/json" \
   --data '{
     "list": {
-      "note": "'"${NOTE}"'",
-      "user_id": "'"${USER_ID}"'"
+      "note": "'"${NOTE}"'"
     }
   }'
   # --header "Authorization: Token token=$TOKEN"
