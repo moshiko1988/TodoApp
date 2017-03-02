@@ -1,12 +1,20 @@
-Todo App back end
+##  Todo App Back-End
 
-The database need to contain 2 models: user and list.
 
+## database models:
+> User
+> List
+
+## Protected Information
 User must own their information, email and password.
 Only the user could see their own lists change them and delete them.
 
+## Built With:
+- Ruby
+- Ruby on Rails
+- PostgreSQL
 
-
-wireframe and ERD: http://imgur.com/4Bz5GON
-linkt to App :     https://moshiko1988.github.io/TodoApp-frontend/
-linkt o front-end: https://github.com/moshiko1988/TodoApp-frontend
+## Links
+wireframe and ERD: [Here](http://imgur.com/4Bz5GON)
+linkt to App :  [TodoApp]   (https://moshiko1988.github.io/TodoApp-frontend)
+link to front-end:[HERE] (https://github.com/moshiko1988/TodoApp-frontend)
